@@ -1,4 +1,4 @@
-import { Hero } from './../../../component-iteraction/src/app/hero';
+
 import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
